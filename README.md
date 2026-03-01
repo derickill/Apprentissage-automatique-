@@ -1,0 +1,1 @@
+Le code étant complexe et comportant de nombreuses dépendances, j’ai ajouté une vidéo montrant un aperçu du rendu. Le fichier algo.py contient le code permettant l’apprentissage du modèle pendant l’exécution du jeu.
